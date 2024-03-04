@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b20a052-e9e8-4e03-bb71-8f341ac33431" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2c5nyNoFEjg9bBhVp3PK1ko680D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Find_the_maximum_and_minimum_element_in_an_array.Main.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.array_questions.negative_one_side_of_array.Main.executor": "Run",
+    "Application.array_questions.reverse_each_word.Main.executor": "Run",
+    "Application.array_questions.stock_span_problem.Main.executor": "Run",
+    "Application.binary_search_questions.find_ceil_of_element.Main.executor": "Run",
+    "Application.binary_search_questions.find_floor_of_an_element.Main.executor": "Run",
+    "Application.binary_search_questions.minimum_abs_diff_in_sorted_array.Main.executor": "Run",
+    "Application.binary_search_questions.next_letter.Main.executor": "Run",
+    "Application.binary_search_questions.peak_element.Main.executor": "Run",
+    "Application.binary_search_questions.search_first_and_last_occrance_in_sorted_array.Main.executor": "Run",
+    "Application.binary_search_questions.search_sorted_array.Main.executor": "Run",
+    "Application.buy_sell_stock_each_day.Main.executor": "Run",
+    "Application.buy_sell_stock_single_day.Main.executor": "Run",
+    "Application.dublicate_element_1_to_n.Main.executor": "Run",
+    "Application.negative_one_side_of_array.Main.executor": "Run",
+    "Application.second_largest_number.Main.executor": "Run",
+    "Application.sliding_window_questions.find_first_neg_number_in_every_window.Main.executor": "Run",
+    "Application.sliding_window_questions.find_largest_num_of_all_the_subarray_of_size_k.Main.executor": "Run",
+    "Application.sliding_window_questions.find_max_sum_of_size_k.Main.executor": "Run",
+    "Application.sliding_window_questions.find_the_largest_window_of_sum_k.Main.executor": "Run",
+    "Application.sliding_window_questions.longest_substring_with_k_unique_char.Main.executor": "Run",
+    "Application.sliding_window_questions.longest_substring_without_repeating_char.Main.executor": "Run",
+    "Application.sliding_window_questions.num_of_occurances_of_given_str.Main.executor": "Debug",
+    "Application.sort012.Main.executor": "Run",
+    "Application.stack_questions.next_largest_element.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/anilkumarpandit/Documents/work-space/excel-sheet-450/array/src/array_questions",
+    "onboarding.tips.debug.path": "/Users/anilkumarpandit/Documents/work-space/excel-sheet-450/array/src/Reverse_the_array/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/array_questions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.sliding_window_questions.find_largest_num_of_all_the_subarray_of_size_k.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binary_search_questions.search_first_and_last_occrance_in_sorted_array.Main" />
+      <module name="coding-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binary_search_questions.search_first_and_last_occrance_in_sorted_array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="array_questions.negative_one_side_of_array.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array_questions.negative_one_side_of_array.Main" />
+      <module name="coding-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array_questions.negative_one_side_of_array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="binary_search_questions.find_ceil_of_element.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binary_search_questions.find_ceil_of_element.Main" />
+      <module name="coding-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binary_search_questions.find_ceil_of_element.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sliding_window_questions.find_first_neg_number_in_every_window.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sliding_window_questions.find_first_neg_number_in_every_window.Main" />
+      <module name="coding-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sliding_window_questions.find_first_neg_number_in_every_window.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sliding_window_questions.find_largest_num_of_all_the_subarray_of_size_k.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sliding_window_questions.find_largest_num_of_all_the_subarray_of_size_k.Main" />
+      <module name="coding-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sliding_window_questions.find_largest_num_of_all_the_subarray_of_size_k.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.sliding_window_questions.find_largest_num_of_all_the_subarray_of_size_k.Main" />
+        <item itemvalue="Application.sliding_window_questions.find_first_neg_number_in_every_window.Main" />
+        <item itemvalue="Application.array_questions.negative_one_side_of_array.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.binary_search_questions.find_ceil_of_element.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-203781b8" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b20a052-e9e8-4e03-bb71-8f341ac33431" name="Changes" comment="" />
+      <created>1707410560545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707410560545</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binary_search_questions/find_floor_of_an_element/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
